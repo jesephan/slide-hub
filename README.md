@@ -1,4 +1,6 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+App that will allow you to sell slides online :) 
+
+[Next.js](https://nextjs.org) + [Supabase](https://supabase.com) 
 
 ## Getting Started
 
